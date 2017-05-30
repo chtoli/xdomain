@@ -1,3 +1,10 @@
+/*
+ * See License Text for detailed Inforamtions.
+ * This is free source code. Feel free to modify and enhance it.
+ * I would appreciate if you credit my work in your projects.
+ * author: Christian Linz
+*/
+
 #pragma once
 #include<iostream>
 #include<string>
