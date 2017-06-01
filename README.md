@@ -11,12 +11,12 @@ Copy the File 'XDomain.h' into your Project and include it:
 XDomain may work with other datatypes, but by default it supports int, long, long long, float, double, long double. For other datatypes >> is not implemented, (yet?).
 For the sake of simplicity XDomain provides some shorthand notation for the supplied datatypes:
 
-        XDomain<int> Xint
-        XDomain<long> Xlong
-        XDomain<long long> Xlonglong
-        XDomain<float> Xfloat
-        XDomain<double> Xdouble
-        XDomain<long double> Xlongdouble
+        XDomain<int>                    |       int
+        XDomain<long>                   |       Xlong
+        XDomain<long long>              |       Xlonglong
+        XDomain<float>                  |       Xfloat
+        XDomain<double>                 |       Xdouble
+        XDomain<long double>            |       Xlongdouble
 
 ## Examples
 
