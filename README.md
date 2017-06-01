@@ -1,5 +1,5 @@
 # xdomain
-Extends primitive (number) data types formaly by '+-Infinity' and 'Undefined'. XDomain is a header-only class and supplies the following operations: +,-,*,/,++,--,+=,-=,/=,*=,<,>,==,<=,>=,!=,=. Furthermore standard IO-Operation << and >> are implemented as well (>> only for the XDatatypes, see blow)
+Extends primitive (number) data types formaly by '+-Infinity' and 'Undefined'. XDomain is a header-only class and supplies the following operations: +,-,\*,/,++,--,+=,-=,/=,*=,<,>,==,<=,>=,!=,=. Furthermore standard IO-Operation << and >> are implemented as well (>> only for the XDatatypes, see blow)
 
 ## Setup
 Copy the File 'XDomain.h' into your Project and include it:
